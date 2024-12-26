@@ -3,16 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GObject
+信号
 ============================
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: 目录
 
-    concepts/index.rst
-    types/index.rst
-    enum/index.rst
-    class/index.rst
-    signals/index.rst
-    gtype/index.rst
+    001-class.md
