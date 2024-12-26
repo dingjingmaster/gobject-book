@@ -11,6 +11,7 @@ GObject
     :caption: 目录
 
     concepts/index.rst
+    gobject/index.rst
     types/index.rst
     enum/index.rst
     class/index.rst
