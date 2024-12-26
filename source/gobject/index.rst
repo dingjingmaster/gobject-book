@@ -3,12 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-类型
+GObject
 ============================
 
 .. toctree::
     :maxdepth: 2
     :caption: 目录
 
-    001-types.md
-    002-runtime-debugging.md
+    001-define-and-implement-gobject.md
+    002-define-and-implement-interfaces.md
+    003-create-and-use-signals.md
