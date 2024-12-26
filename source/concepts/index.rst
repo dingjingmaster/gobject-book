@@ -19,3 +19,4 @@
     007-conventions.md
     008-non-instantiatable-non-classed-fundamental-types.md
     009-instantiatable-classed-types-objects.md
+    010-initialization-and-destruction.md
