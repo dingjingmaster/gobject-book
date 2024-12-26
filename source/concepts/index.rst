@@ -20,3 +20,6 @@
     008-non-instantiatable-non-classed-fundamental-types.md
     009-instantiatable-classed-types-objects.md
     010-initialization-and-destruction.md
+    011-non-instantiatable-classed-types-interfaces.md
+    012-interface-initialization.md
+    013-interface-destruction.md
