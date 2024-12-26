@@ -25,3 +25,6 @@
     013-interface-destruction.md
     014-gobject-base-class.md
     015-object-instantiation.md
+    016-object-memory-management.md
+    017-object-properties.md
+    018-gobject-messaging-system.md
