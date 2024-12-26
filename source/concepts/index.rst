@@ -23,3 +23,5 @@
     011-non-instantiatable-classed-types-interfaces.md
     012-interface-initialization.md
     013-interface-destruction.md
+    014-gobject-base-class.md
+    015-object-instantiation.md
